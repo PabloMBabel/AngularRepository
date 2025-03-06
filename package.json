@@ -1,0 +1,19 @@
+{
+  "name": "ejemplo-node",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "\"This is the description\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloMBabel/AngularRepository.git"
+  },
+  "author": "Pablo Montero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloMBabel/AngularRepository/issues"
+  },
+  "homepage": "https://github.com/PabloMBabel/AngularRepository#readme"
+}
