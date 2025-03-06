@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PabloMBabel/AngularRepository/issues"
   },
-  "homepage": "https://github.com/PabloMBabel/AngularRepository#readme"
+  "homepage": "https://github.com/PabloMBabel/AngularRepository#readme",
+  "dependencies": {
+    "axios": "^1.8.1"
+  }
 }
